@@ -2,12 +2,12 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 🔐 Focado em Cybersecurity e Security Operations Center (SOC)  
-📍 Brasil  
+🇧🇷 Brasil  
 
 Bem-vindo ao meu portfólio de cibersegurança.  
 Aqui compartilho projetos práticos de **análise de ameaças, investigação de incidentes, automação de segurança e análise de logs**.
 
-Meu objetivo é desenvolver habilidades para atuar como **SOC Analyst**, contribuindo na detecção e resposta a ameaças cibernéticas.
+Meu objetivo é desenvolver habilidades para aperfeiçoar meu trabalho como **SOC Analyst**, contribuindo na detecção e resposta a ameaças cibernéticas.
 
 ---
 
@@ -52,7 +52,6 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 - Zabbix
 - Grafana
 - UTM Stack
-- Splunk (conceitos)
 - VirusTotal
 
 ### Sistemas
@@ -67,9 +66,6 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 - SQL
 
 ---
-
-# 🔬 Projetos de Segurança
-em andamento...
 
 # 📚 Frameworks de Referência
 
