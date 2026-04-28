@@ -1,7 +1,7 @@
 # 🛡️ Theodoro da Mata
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-🔐 Focado em Cybersecurity e Security Operations Center (SOC)  
+Formado em Análise e Desenvolvimento de Sistemas  
+Focado em Cybersecurity e Security Operations Center (SOC)  
 🇧🇷 Brasil  
 
 Bem-vindo ao meu portfólio de cibersegurança.  
@@ -11,7 +11,7 @@ Meu objetivo é desenvolver habilidades para aperfeiçoar meu trabalho como **SO
 
 ---
 
-# 🚀 Sobre mim
+#  Sobre mim
 
 Sou profissional de tecnologia com foco em **segurança da informação e defesa cibernética**.
 
@@ -27,15 +27,20 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 
 ---
 
-# 🎓 Certificações e Cursos
+#  Certificações e Cursos
 
-- Cyber Threat Management – Cisco Networking Academy
-- Networking Basics – Cisco Networking Academy
+- Cyber Threat Management | Cisco Networking Academy
+- Junior Cybersecurity Analyst Career Path | Cisco Networking Academy
+- SOC lvl.1 | TryHackMe
+- Bootcamp Riachuelo em Cibersegurança | DIO
+- Google Security Operations - Fundamentals | Google Skills
+- Vicarius vRx | Technical Training
+- AWS Academy Cloud Foundations | SENAI
 - Estudos contínuos em Cybersecurity
 
 ---
 
-# 🧠 Habilidades Técnicas
+#  Habilidades Técnicas
 
 ### Segurança da Informação
 
@@ -47,7 +52,7 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 
 ### Ferramentas
 
-- Vicarius
+- Vicariuss
 - Insecure Web
 - Zabbix
 - Grafana
@@ -67,7 +72,7 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 
 ---
 
-# 📚 Frameworks de Referência
+#  Frameworks de Referência
 
 - MITRE ATT&CK
 - NIST Cybersecurity Framework
@@ -75,7 +80,7 @@ Busco constantemente evoluir através de **laboratórios práticos, cursos e pro
 
 ---
 
-# 📬 Contato
+#  Contato
 
 LinkedIn  
 www.linkedin.com/in/theodoro-da-mata/
